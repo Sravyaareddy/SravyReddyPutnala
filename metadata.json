@@ -1,0 +1,6 @@
+{
+  "name": "Sravya Putnala Portfolio",
+  "description": "A simple, minimal black and white portfolio website with Apple-style animations for Putnala Sravya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
